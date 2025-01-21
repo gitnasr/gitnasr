@@ -19,7 +19,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/gitnasr" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/c0nasr" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/c0nasr" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitnasr&show_icons=true&locale=en" alt="gitnasr" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitnasr&" alt="gitnasr" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitnasr&show_icons=true&locale=en&layout=compact" alt="gitnasr" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitnasr" alt="gitnasr" /></a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitnasr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitnasr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div><p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitnasr" alt="gitnasr" /></a></p>
