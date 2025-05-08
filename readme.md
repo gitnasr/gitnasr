@@ -1,5 +1,14 @@
 <h1>Hi 👋, I'm Mahmoud Nasr</h1>
-<p>A passionate full stack developer from egypt | ITI Student 2024 | Facaulty of Science graduate </p>
+<p>
+🚀 Passionate .NET & Full-Stack Developer | ITI Graduate | Problem Solver & Clean Code Advocate
+
+I'm Mahmoud Nasr, a backend-focused software engineer with a strong foundation in .NET, MERN, and real-time systems. A graduate of ITI’s 9-month Professional Web Development & BI track, I bring hands-on experience building scalable applications, automation tools, and complex systems using modern frameworks and clean architectural principles.
+
+During my time freelancing on Upwork, I delivered production-grade solutions in full-stack web development and web scraping, tackling challenges.
+
+I'm always exploring new tools, sharpening my problem-solving skills, and pushing for performance, reliability, and maintainability in every line of code. Whether it’s ASP.NET, Angular, Node.js. I’m all about creating software that works beautifully—and lasts.
+
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
